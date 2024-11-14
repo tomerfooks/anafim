@@ -5,3 +5,5 @@ api -> cokctailData
 
 
 $().html(cocktailData)
+
+$().img(src='asdasdasd')
